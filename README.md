@@ -6,5 +6,5 @@
 2. Unzip
 3. Right-click Fix.bat and select "Run as Administrator".
 4. Wait and restart PC after it asks for restart
-5. Press F3 after on start screen when it asks (both times)
+5. Press F3 on start screen when it asks (both times)
 
