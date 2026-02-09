@@ -1,6 +1,6 @@
 # Disable-Hyper-V
 
-#🚀 How to Use
+🚀 How to Use
 
 Download [dgreadiness_v3.6](https://github.com/KilluaUwU/Disable-Hyper-V/releases/download/dgreadiness_3.6.zip/dgreadiness_v3.6.zip)
 
