@@ -4,7 +4,7 @@
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR WINDOWS HELLO
-> You **MUST** remove your Windows PIN, Password, and Face ID / Windows Hello **BEFORE** running this script. If you skip this, you will be locked out of your account after the reboot.
+> You **MUST** remove your Windows PIN, and Face ID / Windows Hello **BEFORE** running this script. If you skip this, you will be locked out of your account after the reboot.
 
 ---
 
@@ -19,7 +19,7 @@
 # РУССКИЙ
 > [!WARNING]
 > ### 🛑 ВАЖНЫЙ ШАГ: УБЕРИТЕ ВЕСЬ WINDOWS HELLO
-> Вы **ДОЛЖНЫ** убрать ваш ПИН, Face ID, пароль / Windows Hello **ПЕРЕД** запуском скрипта. Если вы этого не сделаете, вы не сможете войти в систему после перезапуска.
+> Вы **ДОЛЖНЫ** убрать ваш ПИН, Face ID / Windows Hello **ПЕРЕД** запуском скрипта. Если вы этого не сделаете, вы не сможете войти в систему после перезапуска.
 
 ---
 
